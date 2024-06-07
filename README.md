@@ -13,8 +13,8 @@
 
 
 
-![slight_edit](https://github.com/agomoll/AI_Prompts/blob/main/prompt_edit_and_response.PNG)
+![slight_edit](https://github.com/agomoll/AI_Prompts/blob/main/Resources/prompt_edit_and_response.PNG)
 
 
 
-![second_tip](https://github.com/agomoll/AI_Prompts/blob/main/tableau_tip_result.PNG)
+![second_tip](https://github.com/agomoll/AI_Prompts/blob/main/Resources/tableau_tip_result.PNG)
