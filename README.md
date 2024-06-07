@@ -1,7 +1,7 @@
 # AI_Prompts
 
 
-![First Prompt](resources/prompt.png)
+![First Prompt](resources/prompt.PNG)
 
 
 
