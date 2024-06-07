@@ -1,20 +1,20 @@
 # AI_Prompts
 
 
-![First_Prompt](https://Resources/prompt.PNG)
+![First_Prompt](https://github.com/agomoll/AI_Prompts/blob/main/Resources/prompt.PNG)
 
 
 
-![response_one](Resources/output.png)
+![response_one](https://github.com/agomoll/AI_Prompts/blob/main/Resources/output.PNG)
 
 
 
-![Prompt_2](Resources/prompt_2)
+![Prompt_2](https://github.com/agomoll/AI_Prompts/blob/main/Resources/prompt_2.PNG)
 
 
 
-![slight_edit](prompt_edit_and_response.png)
+![slight_edit](https://github.com/agomoll/AI_Prompts/blob/main/prompt_edit_and_response.PNG)
 
 
 
-![second_tip](tableau_tip_result)
+![second_tip](https://github.com/agomoll/AI_Prompts/blob/main/tableau_tip_result.PNG)
