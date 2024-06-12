@@ -17,10 +17,11 @@ ChatGPT Response:
 
 
 
-![Prompt_2](https://github.com/agomoll/AI_Prompts/blob/main/Resources/prompt_2.PNG)
+
+In this second example, I was tasked with preparing a regular tool tip message to send out to our Tableau developers. In the spirit of providing frequent, short content that users could consume regularly I created this promt. 
 
 
-
+P
 ![slight_edit](https://github.com/agomoll/AI_Prompts/blob/main/Resources/prompt_edit_and_response.PNG)
 
 
