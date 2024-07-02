@@ -31,3 +31,8 @@ In this second example, I was tasked with preparing a regular tool tip message t
 #### Second Tip Response:
 
 ![second_tip](https://github.com/agomoll/AI_Prompts/blob/main/Resources/tableau_tip_result.PNG)
+
+
+
+### Summary
+ChatGPT can be used to quickly mock up text communications or develop content that can then be tailored for use. 
